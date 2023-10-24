@@ -24,7 +24,7 @@ git clone https://github.com/kbart93/api-exchange
 ```
 2. Navigate to the project directory.
 ```sh
-cd currency-exchange-app
+cd api-exchange
 ```
 3. Run the Python script.
 ```sh
